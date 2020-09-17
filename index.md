@@ -1,5 +1,3 @@
-# The PSSST Protocol
-
 Packet Security for Stateless Server Transactions (PSSST) is a light weight cryotographic
 protocol to allow clients to securely send messages to a server or pool of servers,
 and receive secure responses, in such a way that the servers do not need to maintain
